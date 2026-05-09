@@ -101,7 +101,7 @@
         "colortranslator": "^5.0.0",
         "front-matter": "^4.0.2",
         "semver": "^7.7.2",
-        "uuid": "^11.1.0",
+        "uuid": "^11.1.1",
         "yaml": "^2.8.0"
     },
     "optionalDependencies": {
